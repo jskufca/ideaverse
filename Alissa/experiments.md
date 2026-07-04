@@ -26,7 +26,7 @@ OK.   Here's where I start posting ideas.
 | :-- | :---------- | :----------------------------------------------------------------------------- | :--------- | :----------------------------- | :-------------------- | :------------------ |
 |     |             | How does the distance from green affect any boundary behavior                  |            |                                |                       |                     |
 |     |             | How does size of contiguous greened area impact  the effectiveness of greening |            |                                |                       |                     |
-|     |             |                                                                                |            |                                |                       |                     |
+|     |             | Can we understand transient behavior via a sim?                                |            |                                |                       |                     |
 
 
 

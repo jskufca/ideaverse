@@ -8,3 +8,9 @@ Here is where I am keeping my notes about things to improve her dissertation.   
 - For effect size, we need to perhaps use the [[common language effect size]]
 - We need to explain why standard statistical methods like t-test are not well suited to monte carlo simulation studies.
 - We need a page for [[experiments]] . It should cover hypothesis, parametric studies, and confirmatory (if we have any)
+- Use a plot of C vs E ... and then level curves of rCE.   Color the points by region.
+- Rename the regions in the ABM.
+	- Green
+	- Boundary - Blue
+	- Reference - Rose colored
+	- Background or Bulk - Black
