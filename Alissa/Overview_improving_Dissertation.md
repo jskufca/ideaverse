@@ -15,4 +15,5 @@ Here is where I am keeping my notes about things to improve her dissertation.   
 	- Reference - Rose colored
 	- Background or Bulk - Black
 - Literature review - lots of references. Put at least a sentence.  The goal is to show what other work in the space and how yours is different.
+- You need an acknowledgements section.   You should refere to the AIM and SIAM pages for use of AI.
 - 
