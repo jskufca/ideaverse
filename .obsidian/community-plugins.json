@@ -7,5 +7,9 @@
   "obsidian-git",
   "quickadd",
   "omnisearch",
+<<<<<<< HEAD
   "obsidian-latex-suite"
+=======
+  "obsidian-excalidraw-plugin"
+>>>>>>> origin/main
 ]
