@@ -1,15 +1,12 @@
 [
-  "periodic-notes",
-  "tag-wrangler",
   "calendar",
   "dataview",
-  "obsidian-tasks-plugin",
+  "obsidian-excalidraw-plugin",
   "obsidian-git",
-  "quickadd",
+  "periodic-notes",
+  "tag-wrangler",
+  "obsidian-tasks-plugin",
+  "templater-obsidian",
   "omnisearch",
-<<<<<<< HEAD
   "obsidian-latex-suite"
-=======
-  "obsidian-excalidraw-plugin"
->>>>>>> origin/main
 ]
