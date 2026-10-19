@@ -1,0 +1,10 @@
+- [ ] Get dock out of water
+- [ ] Remove lake water temperature sensors
+- [x] Unhook boathouse pump ✅ 2026-10-18
+- [ ] Get boats out of water
+- [ ] Pre-test snow blower
+- [ ] Drain gas from lawn mower
+- [ ] Store chairs
+- [x] Take fiberglass whips off dock ✅ 2026-10-18
+- [ ] Store paddles and oars in basement
+- [ ] Move sailboat sails to basement

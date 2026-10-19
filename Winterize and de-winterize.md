@@ -3,7 +3,6 @@
 - unhook boathouse pump
 - get [[boats]] out of water
 - pretest snow-blower
-- get [[snowmobiles]] running
 - drain gas from lawnmower
 - store chairs
 - take fiberglass whips off dock
@@ -12,7 +11,7 @@
 - 
 
 
-
+[[winterize 2026]]
 
 ## Winter maintenance work
 
