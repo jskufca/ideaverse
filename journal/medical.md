@@ -3,7 +3,7 @@
 
 
 - 2026-11-09   0730   CT scan potsdam hospital for heart
-- 
+- 2026-12-14   1:15   Syracuse Urology Biopsy?
 
 
 # History
